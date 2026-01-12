@@ -19,12 +19,12 @@ This project is a Python program that generates strong and random passwords base
 - **Python 3**
 - **random** ve **string** modülleri / `random` and `string` modules
 
-## Nasıl Çalışır? / How It Works
+## Nasıl Çalışır? 
 1. Kullanıcı şifrenin uzunluğunu belirler.
 2. Şifrede büyük harf, küçük harf, sayı ve özel karakter bulunup bulunmayacağını seçer.
 3. Program, seçilen kriterlere göre bir karakter havuzu oluşturur ve rastgele bir şifre üretir.
 4. Üretilen şifre ekrana yazdırılır.
-
+## How It Works
 1. The user specifies the desired password length.
 2. The user selects whether to include uppercase, lowercase, digits, and special characters.
 3. The program creates a character pool based on the selected criteria and generates a random password.
