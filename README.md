@@ -4,12 +4,12 @@ Bu proje, kullanıcı tarafından belirlenen kriterlere uygun güçlü ve rastge
 
 This project is a Python program that generates strong and random passwords based on user-defined criteria. The user can specify the password length and the types of characters (uppercase, lowercase, digits, special characters) to create secure passwords.
 
-## Özellikler / Features
+## Özellikler 
 - Kullanıcı tarafından belirlenen şifre uzunluğu.
 - Büyük harf, küçük harf, rakam ve özel karakter seçenekleri.
 - Dinamik karakter havuzu oluşturma.
 - Rastgele ve güçlü şifre üretimi.
-
+##  Features
 - User-defined password length.
 - Options for uppercase, lowercase, digits, and special characters.
 - Dynamic character pool generation.
